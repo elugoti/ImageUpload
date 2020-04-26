@@ -18,4 +18,3 @@ USED:
 4) RxJava and RxAndroid
 5) Using Jetpack components like Databinding, Navigation, ViewModel, Fragment
 
-![HomeScreen](https://firebasestorage.googleapis.com/v0/b/task-48bc5.appspot.com/o/images%2F1587889819378.jpg?alt=media&token=ac1d9646-4f62-4133-bd90-fbcf1fc27a17)
