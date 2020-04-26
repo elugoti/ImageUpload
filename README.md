@@ -17,3 +17,5 @@ USED:
 3) The app works both in portrait and landscape mode
 4) RxJava and RxAndroid
 5) Using Jetpack components like Databinding, Navigation, ViewModel, Fragment
+
+![HomeScreen](shorturl.at/dHJO2)
